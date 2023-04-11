@@ -1,0 +1,10 @@
+body{
+    font-size: large;
+    font-family: 'Lobster', cursive;
+    background-image: linear-gradient(to right top, #ff0000,#ffffff, #ffe368, #ffb048, #ffffff, #ff0080);
+}
+.b{
+    font-size: larger; 
+    font-family: 'Lobster', cursive;
+   
+}
